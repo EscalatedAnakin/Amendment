@@ -1,5 +1,9 @@
 # 성균관대학교 글로벌바이오메디컬공학과 학생회칙
 
+# Contributors
+
+@jun-hyeok, @EscalatedAnakin
+
 ## 용어 정리
 
 ### 개의와 개회
